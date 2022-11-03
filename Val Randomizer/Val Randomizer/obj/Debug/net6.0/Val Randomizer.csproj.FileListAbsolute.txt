@@ -1,0 +1,15 @@
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\bin\Debug\net6.0\Val Randomizer.exe
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\bin\Debug\net6.0\Val Randomizer.deps.json
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\bin\Debug\net6.0\Val Randomizer.runtimeconfig.json
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\bin\Debug\net6.0\Val Randomizer.dll
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\bin\Debug\net6.0\Val Randomizer.pdb
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.csproj.AssemblyReference.cache
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.AssemblyInfoInputs.cache
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.AssemblyInfo.cs
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.dll
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\refint\Val Randomizer.dll
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.pdb
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\Val Randomizer.genruntimeconfig.cache
+C:\Users\bautipab1\Downloads\PabloBautista\assignments\Val Randomizer\Val Randomizer\Val Randomizer\obj\Debug\net6.0\ref\Val Randomizer.dll
